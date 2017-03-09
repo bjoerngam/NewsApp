@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="menu_text">Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="default_settings_title" translatable="false">Search String</string>
+    <string name="default_settings_key" translatable="false">key_searchString</string>
+    <string name="default_settings">debates</string>
+    <string name="internet_connection">No internet connection</string>
+    <string name="publishedDate">Published Date:</string>
+    <string name="section">Section:</string>
+</resources>

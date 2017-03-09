@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+<EditTextPreference
+    android:defaultValue="@string/default_settings"
+    android:inputType="text"
+    android:singleLine="true"
+    android:key="key_searchString"
+    android:selectAllOnFocus="true"
+    android:title="@string/default_settings_title" />
+
+</PreferenceScreen>
